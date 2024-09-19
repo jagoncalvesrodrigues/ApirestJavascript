@@ -1,0 +1,15 @@
+{
+  "name": "apirestjavascript",
+  "version": "1.0.0",
+  "description": "api rest pratica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/jagoncalvesrodrigues/ApirestJavascript.git)"
+  },
+  "author": "Juan Goncalves",
+  "license": "MIT"
+}
